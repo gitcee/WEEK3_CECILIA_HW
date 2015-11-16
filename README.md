@@ -10,6 +10,6 @@ Panning from the edge should reveal the menu
 
 Addtional work + Notes:
 
-Had to borrow lots of exsiting code to get it working, would like to work more into the animations/fading effects.
+Spent lots of time to have it working, would like to dig deeper into animations/fading effects and everything covered in this chapter.
 
 ![Alt Text](Week3_Cecilia_HW.gif)
